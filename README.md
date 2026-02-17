@@ -36,7 +36,7 @@
 
 ## 🚀 Featured Projects
 
-### 🎯 SkillFit.AI
+### 🎯 [SkillFit.AI](https://github.com/notar7/SkillFit.AI)
 > AI-powered resume analyzer with job matching & course recommendations
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -45,9 +45,11 @@
 
 ✅ Smart skill extraction &nbsp;|&nbsp; ✅ Job matching &nbsp;|&nbsp; ✅ Learning paths
 
+**[🔗 View Project](https://github.com/notar7/SkillFit.AI)** &nbsp;|&nbsp; **[⭐ Star Repo](https://github.com/notar7/SkillFit.AI)**
+
 ---
 
-### 📚 Document Intelligence System
+### 📚 [Document Intelligence System](https://github.com/notar7/Document-Intelligence-System)
 > RAG-based QA system for intelligent document analysis
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
@@ -56,9 +58,11 @@
 
 ✅ Multi-PDF support &nbsp;|&nbsp; ✅ Semantic search &nbsp;|&nbsp; ✅ Smart citations
 
+**[🔗 View Project](https://github.com/notar7/Document-Intelligence-System)** &nbsp;|&nbsp; **[⭐ Star Repo](https://github.com/notar7/Document-Intelligence-System)**
+
 ---
 
-### 📊 Clarvue — CSV Data Analyst
+### 📊 [Clarvue — CSV Data Analyst](https://github.com/notar7/Clarvue--A-CSV-Data-Analyst)
 > Automated CSV analysis with AI-generated insights
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -67,9 +71,11 @@
 
 ✅ Auto insights &nbsp;|&nbsp; ✅ Visualizations &nbsp;|&nbsp; ✅ Quality scoring
 
+**[🔗 View Project](https://github.com/notar7/Clarvue--A-CSV-Data-Analyst)** &nbsp;|&nbsp; **[⭐ Star Repo](https://github.com/notar7/Clarvue--A-CSV-Data-Analyst)**
+
 ---
 
-### 📦 Inventory Management Dashboard
+### 📦 [Inventory Management Dashboard](https://github.com/notar7/Inventory-Management-Analytics-Dashboard)
 > Business Intelligence dashboard for inventory optimization
 
 ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
@@ -78,9 +84,11 @@
 
 ✅ Performance tracking &nbsp;|&nbsp; ✅ Supplier efficiency &nbsp;|&nbsp; ✅ Geographic analysis
 
+**[🔗 View Project](https://github.com/notar7/Inventory-Management-Analytics-Dashboard)** &nbsp;|&nbsp; **[⭐ Star Repo](https://github.com/notar7/Inventory-Management-Analytics-Dashboard)**
+
 ---
 
-### 🗳️ ElectViz Dashboard
+### 🗳️ [ElectViz Dashboard](https://github.com/notar7/Electviz---Team_C)
 > Analyzing 40 years of Indian election data
 
 ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
@@ -88,6 +96,8 @@
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ✅ 400K+ records &nbsp;|&nbsp; ✅ Interactive dashboards &nbsp;|&nbsp; ✅ Broadcast-quality analytics
+
+**[🔗 View Project](https://github.com/notar7/Electviz---Team_C)** &nbsp;|&nbsp; **[⭐ Star Repo](https://github.com/notar7/Electviz---Team_C)**
 
 ---
 
