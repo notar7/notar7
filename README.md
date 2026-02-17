@@ -14,7 +14,7 @@
 
 ## 🎮 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+<img align="right" src="https://postimg.cc/QFM8dPYj" width="300" />
 
 👨‍💻 **Ashish Ransing** — AI and Data Science Engineer from **India 🇮🇳**
 
@@ -22,7 +22,7 @@
 
 🧠 Passionate about **AI systems**, **Business Intelligence**, and **Scalable Web Architecture**
 
-🌐 Check out my work → [sheeesh.live](https://sheeesh.live)
+🌐 Check out my work → [www.sheeesh.live](https://www.sheeesh.live)
 
 💡 I love blending **data pipelines** with **beautiful frontends**
 
@@ -66,6 +66,17 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 ✅ Auto insights &nbsp;|&nbsp; ✅ Visualizations &nbsp;|&nbsp; ✅ Quality scoring
+
+---
+
+### 📦 Inventory Management Dashboard
+> Business Intelligence dashboard for inventory optimization
+
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+✅ Performance tracking &nbsp;|&nbsp; ✅ Supplier efficiency &nbsp;|&nbsp; ✅ Geographic analysis
 
 ---
 
@@ -123,20 +134,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=notar7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notar7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=notar7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=notar7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </div>
 
 ---
