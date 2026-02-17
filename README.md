@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F0D190&center=true&vCenter=true&width=600&lines=Ashish+Ransing;AI+and+Data+Science+Engineer" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sheeesh.live-F0D190?style=for-the-badge&logo=vercel&logoColor=black)](https://wwww.sheeesh.live)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sheeesh.live-F0D190?style=for-the-badge&logo=vercel&logoColor=black)](https://www.sheeesh.live)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-ransing7)
 [![Email](https://img.shields.io/badge/Email-ashish.ransing7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashish.ransing7@gmail.com)
 
@@ -14,73 +14,69 @@
 
 ## 🎮 About Me
 
-```python
-class DataResonator:
-    def __init__(self):
-        self.name = "Ashish Ransing"
-        self.role = "Data Engineer & Full-Stack Developer"
-        self.location = "India 🇮🇳"
-        self.portfolio = "https://sheeesh.live"
-        
-    def get_skills(self):
-        return {
-            "languages": ["Python", "JavaScript", "TypeScript", "SQL", "DAX"],
-            "ai_ml":     ["RAG", "LangChain", "FAISS", "Ollama", "Google Gemini AI"],
-            "backend":   ["FastAPI", "Node.js", "PostgreSQL", "REST APIs"],
-            "frontend":  ["React", "Next.js", "Tailwind CSS", "Framer Motion"],
-            "analytics": ["Power BI", "Pandas", "NumPy", "Scikit-learn"],
-            "tools":     ["Git", "Docker", "Vercel", "VS Code"]
-        }
-    
-    def current_focus(self):
-        return [
-            "🤖 Building AI-powered applications",
-            "📊 Creating interactive data visualizations",
-            "🚀 Developing scalable full-stack solutions",
-            "🎨 Crafting immersive web experiences"
-        ]
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
-resonator = DataResonator()
-```
+👨‍💻 **Ashish Ransing** — AI and Data Science Engineer from **India 🇮🇳**
+
+🔭 I build AI-powered applications and turn raw data into meaningful stories
+
+🧠 Passionate about **AI systems**, **Business Intelligence**, and **Scalable Web Architecture**
+
+🌐 Check out my work → [sheeesh.live](https://sheeesh.live)
+
+💡 I love blending **data pipelines** with **beautiful frontends**
+
+📊 Power BI enthusiast who also writes clean React & FastAPI code
+
+🤝 Always open to collaborating on impactful open-source projects
+
+🎮 Hobbies - Playing Online Games, Listening Music
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🎯 SkillFit.AI</h3>
-      <p>AI-powered resume analyzer with job matching & course recommendations</p>
-      <p><b>Tech:</b> React, FastAPI, Google Gemini AI</p>
-      <p><b>Features:</b> Smart skill extraction, Job matching, Learning paths</p>
-      <p>⭐ Star if you like it!</p>
-    </td>
-    <td width="50%">
-      <h3>📚 Document Intelligence System</h3>
-      <p>RAG-based QA system for intelligent document analysis</p>
-      <p><b>Tech:</b> RAG, LangChain, FAISS, Ollama</p>
-      <p><b>Features:</b> Multi-PDF support, Semantic search, Citations</p>
-      <p>🔍 Ask anything about your documents!</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>📊 Clarvue - CSV Data Analyst</h3>
-      <p>Automated CSV analysis with AI insights</p>
-      <p><b>Tech:</b> Next.js, FastAPI, PostgreSQL</p>
-      <p><b>Features:</b> Auto insights, Visualizations, Quality scoring</p>
-      <p>📈 Turn raw data into actionable insights!</p>
-    </td>
-    <td width="50%">
-      <h3>🗳️ ElectViz Dashboard</h3>
-      <p>Analyzing 40 years of Indian election data</p>
-      <p><b>Tech:</b> Power BI, Python, DAX</p>
-      <p><b>Features:</b> 400K+ records, Interactive dashboards</p>
-      <p>🏆 Broadcast-quality analytics!</p>
-    </td>
-  </tr>
-</table>
+### 🎯 SkillFit.AI
+> AI-powered resume analyzer with job matching & course recommendations
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+
+✅ Smart skill extraction &nbsp;|&nbsp; ✅ Job matching &nbsp;|&nbsp; ✅ Learning paths
+
+---
+
+### 📚 Document Intelligence System
+> RAG-based QA system for intelligent document analysis
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-00599C?style=flat-square&logo=meta&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
+
+✅ Multi-PDF support &nbsp;|&nbsp; ✅ Semantic search &nbsp;|&nbsp; ✅ Smart citations
+
+---
+
+### 📊 Clarvue — CSV Data Analyst
+> Automated CSV analysis with AI-generated insights
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+✅ Auto insights &nbsp;|&nbsp; ✅ Visualizations &nbsp;|&nbsp; ✅ Quality scoring
+
+---
+
+### 🗳️ ElectViz Dashboard
+> Analyzing 40 years of Indian election data
+
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+✅ 400K+ records &nbsp;|&nbsp; ✅ Interactive dashboards &nbsp;|&nbsp; ✅ Broadcast-quality analytics
 
 ---
 
@@ -127,12 +123,12 @@ resonator = DataResonator()
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=notar7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notar7&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=notar7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notar7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=notar7&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=notar7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -140,7 +136,7 @@ resonator = DataResonator()
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=notar7&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=notar7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </div>
 
 ---
@@ -148,30 +144,8 @@ resonator = DataResonator()
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=notar7&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=notar7&theme=tokyo-night&hide_border=true&area=true" />
 </div>
-
----
-
-## 💡 What I'm Working On
-
-```javascript
-const currentProjects = {
-    learning:   ["Advanced RAG techniques", "Vector databases", "LLM fine-tuning"],
-    building:   ["AI-powered portfolio analyzer", "Real-time analytics dashboard"],
-    exploring:  ["Blockchain integration", "Edge computing", "3D web experiences"]
-};
-```
-
----
-
-## 🎯 2025 Goals
-
-- 🚀 Contribute to 10+ open-source projects
-- 📚 Master LangChain & advanced RAG architectures
-- 🎨 Build 5 production-ready AI applications
-- 🤝 Collaborate with developers worldwide
-- 📝 Write technical blogs & tutorials
 
 ---
 
@@ -190,13 +164,11 @@ const currentProjects = {
 
 <div align="center">
 
-💭 **Random Dev Quote**
+### 📖 A Verse to Live By
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+*"For I know the plans I have for you, declares the Lord, plans to prosper you and not to harm you, plans to give you hope and a future."*
 
-😂 **Developer Humor**
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+**— Jeremiah 29:11**
 
 </div>
 
