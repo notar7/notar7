@@ -176,7 +176,7 @@
 
 👀 **Profile Views**
 
-![Profile Views](https://komarev.com/ghpvc/?username=notar7&color=F0D190&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=notar7&color=0FFF50&style=for-the-badge)
 
 ⭐ **Show some love!**
 
