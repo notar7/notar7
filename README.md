@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F0D190&center=true&vCenter=true&width=600&lines=Ashish+Ransing;AI+and+Data+Science+Engineer" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sheeesh.live-F0D190?style=for-the-badge&logo=vercel&logoColor=black)](https://wwww.sheeesh.live)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-ransing)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-ransing7)
 [![Email](https://img.shields.io/badge/Email-ashish.ransing7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashish.ransing7@gmail.com)
 
 </div>
