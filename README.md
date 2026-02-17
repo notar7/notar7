@@ -14,7 +14,7 @@
 
 ## 🎮 About Me
 
-<img align="right" src="https://postimg.cc/QFM8dPYj" width="300" />
+<img align="right" src="https://i.postimg.cc/x1vctVKN/logo.png" width="300" />
 
 👨‍💻 **Ashish Ransing** — AI and Data Science Engineer from **India 🇮🇳**
 
