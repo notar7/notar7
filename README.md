@@ -151,8 +151,8 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sheeesh.live-F0D190?style=for-the-badge&logo=vercel&logoColor=black)](https://sheeesh.live)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-ransing)
+[![Portfolio](https://img.shields.io/badge/Portfolio-www.sheeesh.live-F0D190?style=for-the-badge&logo=vercel&logoColor=black)](https://www.sheeesh.live)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-ransing7)
 [![Email](https://img.shields.io/badge/Email-ashish.ransing7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashish.ransing7@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/notar7)
 
